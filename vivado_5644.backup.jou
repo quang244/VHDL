@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 23 16:51:12 2022
+# Process ID: 5644
+# Current directory: C:/Users/admin/Desktop/bai_tap_lon_replay
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16888 C:\Users\admin\Desktop\bai_tap_lon_replay\bai_tap_lon_replay.xpr
+# Log file: C:/Users/admin/Desktop/bai_tap_lon_replay/vivado.log
+# Journal file: C:/Users/admin/Desktop/bai_tap_lon_replay\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/admin/Desktop/bai_tap_lon_replay/bai_tap_lon_replay.xpr
+update_compile_order -fileset sources_1
+

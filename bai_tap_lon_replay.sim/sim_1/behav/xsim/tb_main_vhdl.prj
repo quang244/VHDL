@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../bai_tap_lon_replay.srcs/sources_1/new/chiatan_dem.vhd" \
+"../../../../bai_tap_lon_replay.srcs/sources_1/new/khoidem.vhd" \
+"../../../../bai_tap_lon_replay.srcs/sources_1/new/khoigiaima.vhd" \
+"../../../../bai_tap_lon_replay.srcs/sources_1/new/main.vhd" \
+"../../../../bai_tap_lon_replay.srcs/sim_1/new/tb_main.vhd" \
+
+# Do not sort compile order
+nosort
